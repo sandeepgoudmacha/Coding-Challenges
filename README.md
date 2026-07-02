@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0053-maximum-subarray) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0078-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2107-find-unique-binary-string) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0075-sort-colors) |
