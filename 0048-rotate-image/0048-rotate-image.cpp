@@ -3,19 +3,16 @@ public:
     void rotate(vector<vector<int>>& mat) {
          int n=mat.size();
         int m=mat[0].size();
-        vector<vector<int>>v;
-        for(int i=0;i<m;i++){
-            vector<int>r;
-            for(int j=n-1;j>=0;j--){
-                r.push_back(mat[j][i]);
-            }
-            v.push_back(r);
+        vector<vector<int>>v(n, vector<int>(m,0));
+        for(int i=0;i<n;i++){
+          for(int j=0;j<m;j++){
+            v[j][n-i-1]=mat[i][j];
+          }
         }
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++){
-                mat[i][j]=v[i][j];
-            }
+       for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+            mat[i][j]=v[i][j];
         }
+       }
     }
 };
