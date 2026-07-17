@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0940-fruit-into-baskets) |
@@ -874,11 +876,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0451-sort-characters-by-frequency) |
 | [0794-swim-in-rising-water](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0794-swim-in-rising-water) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Graph
 |  |
