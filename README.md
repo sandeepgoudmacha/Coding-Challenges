@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/2685-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-longest-cycle-in-a-graph](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2439-longest-cycle-in-a-graph) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -1112,4 +1114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sandeepgoudmacha/LeetCode-Challenges/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/sandeepgoudmacha/Coding-Challenges/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
